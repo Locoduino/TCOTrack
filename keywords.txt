@@ -1,0 +1,14 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TTPoint						KEYWORD1
+TTDoublePoint				KEYWORD1
+TTBlock						KEYWORD1
+TTDiag						KEYWORD1
+TTDecoupler					KEYWORD1
+
